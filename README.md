@@ -1,4 +1,4 @@
-### Hi there! My name is Giannis - aka [john98nf](https://github.com/john98nf) 👋.
+### Hi there 😃! My name is Giannis - aka [john98nf](https://github.com/john98nf) 👋.
 
 ## I'm a junior Software Engineer 💻, a devoted Linux user 🐧 & a comic-book fan 🦸.
 - 📝 I'm currently working on my Master Thesis. 
