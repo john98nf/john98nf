@@ -6,14 +6,14 @@
 - ⚡ Fun Fact: I studied RF engineering for one semester, before switching to Computer Science.
 
 #### 💡 Currently Learning:
-<img align="left" alt="Python" width="26px" style="padding-left: 30px;padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
+<img align="left" alt="Python" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
 <img align="left" alt="Java" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
 <img align="left" alt="Java" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 
 <br/>
 
 #### 🚀 Top Programming Languages:
-<img align="left" alt="Python" width="26px" style="padding-left: 30px;padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Python" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="Java" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="SQL" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/icon-for-file-type@1.0.0/icons/sql256x256.png" />
 <img align="left" alt="C++" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
@@ -26,7 +26,7 @@
 <font size="2">*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*</font> -->
 
 #### 🧰 Technologies, Frameworks & Tools used in the past:
-<img align="left" alt="Maven" width="26px" style="padding-left:30px;padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachemaven.svg" />
+<img align="left" alt="Maven" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachemaven.svg" />
 <img align="left" alt="Gradle" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />
 <img align="left" alt="MySQL" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" alt="MongoDB" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
@@ -42,7 +42,7 @@
 
 #### 📞 Contact me:
 <a href=mailto:john.fakinos.nf@gmail.com>
-<img align="left" alt="john.fakinos.nf@gmail.com" width="22px" style="padding-left:30px;padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<img align="left" alt="john.fakinos.nf@gmail.com" width="22px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href=https://gr.linkedin.com/in/ioannis-fakinos>
 <img align="left" alt="Find me @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
