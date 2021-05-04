@@ -61,7 +61,7 @@
 
 #### 📞 Contact me:
 <a href=mailto:john.fakinos.nf@gmail.com>
-<img align="center" alt="john.fakinos.nf@gmail.com" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<img align="center" alt="john.fakinos.nf@gmail.com" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/117002383-2b152f00-acec-11eb-81f3-f06797905616.png" />
 </a>
 <a href=https://gr.linkedin.com/in/ioannis-fakinos>
 <img align="center" alt="Find me @ LinkedIn" width="26px" src="https://user-images.githubusercontent.com/45902117/116989844-f8af0600-acda-11eb-8e5a-dce086b3fa57.png" />
