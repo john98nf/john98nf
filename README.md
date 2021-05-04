@@ -53,7 +53,7 @@
 <a href="https://restlet.talend.com/">
 <img align="center" alt="Restlet" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116998052-5432c100-ace6-11eb-8bec-b6dd5f26e57e.png" /><a/>
 <a href="https://angular.io/">
-<img align="center" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/45902117/116988306-de742880-acd8-11eb-930d-0f1e1a84043e.png" /><a/>
+<img align="center" alt="Angular" width="30px" src="https://user-images.githubusercontent.com/45902117/116988306-de742880-acd8-11eb-930d-0f1e1a84043e.png" /><a/>
 <a href="https://www.typescriptlang.org/">
 <img align="center" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/45902117/116998176-7debe800-ace6-11eb-9938-d843b69a8f81.png" /><a/>
 
