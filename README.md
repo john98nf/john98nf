@@ -42,7 +42,7 @@
 <a href="https://gradle.org/">
 <img align="left" alt="Gradle" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988388-f77cd980-acd8-11eb-8d21-4e29cb8122c5.png" /><a/>
 <a href="https://www.mysql.com/">
-<img align="left" alt="MySQL" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988453-0e233080-acd9-11eb-9f56-9f9ba2c4568c.png" /><a/>
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988453-0e233080-acd9-11eb-9f56-9f9ba2c4568c.png" /><a/>
 <a href="https://www.mongodb.com/2">
 <img align="left" alt="MongoDB" width="20px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988639-53476280-acd9-11eb-84ea-4aa7954b7431.png" /><a/>
 <a href="https://flask.palletsprojects.com/en/1.1.x/">
