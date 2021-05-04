@@ -44,12 +44,18 @@
 <img align="center" alt="MySQL" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988453-0e233080-acd9-11eb-9f56-9f9ba2c4568c.png" /><a/>
 <a href="https://www.mongodb.com/2">
 <img align="center" alt="MongoDB" width="20px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988639-53476280-acd9-11eb-84ea-4aa7954b7431.png" /><a/>
+<a href="https://www.anaconda.com/">
+<img align="center" alt="Anaconda" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116997952-2ea5b780-ace6-11eb-8d4c-7584bba6ff83.png" /><a/>
 <a href="https://flask.palletsprojects.com/en/1.1.x/">
 <img align="center" alt="Flask" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116989185-15970980-acda-11eb-9316-412f130ff75e.png" /><a/>
 <a href="https://spring.io/projects/spring-boot">
 <img align="center" alt="SpringBoot" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988419-03689b80-acd9-11eb-8667-ad0f823f0654.png" /><a/>
+<a href="https://restlet.talend.com/">
+<img align="center" alt="Restlet" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116998052-5432c100-ace6-11eb-8bec-b6dd5f26e57e.png" /><a/>
 <a href="https://angular.io/">
 <img align="center" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/45902117/116988306-de742880-acd8-11eb-930d-0f1e1a84043e.png" /><a/>
+<a href="https://www.typescriptlang.org/">
+<img align="center" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/45902117/116998176-7debe800-ace6-11eb-9938-d843b69a8f81.png" /><a/>
 
 <br/>
 
