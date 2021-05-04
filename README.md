@@ -6,17 +6,27 @@
 - ⚡ Fun Fact: I studied RF engineering for one semester, before switching to Computer Science.
 
 #### 💡 Currently Learning:
-<img align="left" alt="Python" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
-<img align="left" alt="Java" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
-<img align="left" alt="Java" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<a href="https://www.python.org/">
+<img align="left" alt="Go" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987179-6822f680-acd7-11eb-8906-bb88cfca0f12.png" />
+<a/>
+<a href="https://kubernetes.io/">
+<img align="left" alt="K8s" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987242-7a9d3000-acd7-11eb-949e-075ebc06cac3.png" />
+<a/>
+<a href="https://www.docker.com/">
+<img align="left" alt="Docker" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987211-7113c800-acd7-11eb-9727-f61eec8feb90.png" />
+<a/>
 
 <br/>
 
 #### 🚀 Top Programming Languages:
-<img align="left" alt="Python" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="Java" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" alt="SQL" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/icon-for-file-type@1.0.0/icons/sql256x256.png" />
-<img align="left" alt="C++" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<a href="https://www.python.org/">
+<img align="left" alt="Python" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116986857-f77bda00-acd6-11eb-8c41-5d2ed8cd9515.png" /><a/>
+<a href="https://www.java.com/en/">
+<img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988041-80474580-acd8-11eb-9d8b-49064a16c3ed.png" /><a/>
+<a href="https://en.wikipedia.org/wiki/SQL">
+<img align="left" alt="SQL" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987092-49246480-acd7-11eb-976a-a89768138244.png" /><a/>
+<a href="https://www.cplusplus.com/">
+<img align="left" alt="C++" width="40px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116986978-25611e80-acd7-11eb-9197-be8a3a37f0ae.png" /><a/>
 
 <br/>
 <br/>
