@@ -34,9 +34,6 @@
 <img align="left" alt="Flask" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />
 <img align="left" alt="SpringBoot" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
 <img align="left" alt="Angular9" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img align="left" alt="TypeScript" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-<img align="left" alt="HTML5" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 
 <br/>
 
