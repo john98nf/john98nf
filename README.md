@@ -30,6 +30,7 @@
 
 <br/>
 <br/>
+<br/>
 
 ![Giannis' GitHub stats](https://github-readme-stats.vercel.app/api?username=john98nf&count_private=true&theme=midnight-purple&show_icons=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john98nf&layout=compact&hide=css,html&theme=midnight-purple)
