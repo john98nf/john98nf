@@ -6,27 +6,27 @@
 - ⚡ Fun Fact: I studied RF engineering for one semester, before switching to Computer Science.
 
 #### 💡 Currently Learning:
-<a href="https://www.python.org/">
-<img align="left" alt="Go" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987179-6822f680-acd7-11eb-8906-bb88cfca0f12.png" />
+<a href="https://golang.org/">
+<img align="left" alt="Go" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987179-6822f680-acd7-11eb-8906-bb88cfca0f12.png" />
 <a/>
 <a href="https://kubernetes.io/">
-<img align="left" alt="K8s" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987242-7a9d3000-acd7-11eb-949e-075ebc06cac3.png" />
+<img align="left" alt="K8s" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987242-7a9d3000-acd7-11eb-949e-075ebc06cac3.png" />
 <a/>
 <a href="https://www.docker.com/">
-<img align="left" alt="Docker" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987211-7113c800-acd7-11eb-9727-f61eec8feb90.png" />
+<img align="left" alt="Docker" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987211-7113c800-acd7-11eb-9727-f61eec8feb90.png" />
 <a/>
 
 <br/>
 
 #### 🚀 Top Programming Languages:
 <a href="https://www.python.org/">
-<img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116986857-f77bda00-acd6-11eb-8c41-5d2ed8cd9515.png" /><a/>
+<img align="left" alt="Python" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116986857-f77bda00-acd6-11eb-8c41-5d2ed8cd9515.png" /><a/>
 <a href="https://www.java.com/en/">
-<img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988041-80474580-acd8-11eb-9d8b-49064a16c3ed.png" /><a/>
+<img align="left" alt="Java" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988041-80474580-acd8-11eb-9d8b-49064a16c3ed.png" /><a/>
 <a href="https://en.wikipedia.org/wiki/SQL">
-<img align="left" alt="SQL" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987092-49246480-acd7-11eb-976a-a89768138244.png" /><a/>
+<img align="left" alt="SQL" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116987092-49246480-acd7-11eb-976a-a89768138244.png" /><a/>
 <a href="https://www.cplusplus.com/">
-<img align="left" alt="C++" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116986978-25611e80-acd7-11eb-9197-be8a3a37f0ae.png" /><a/>
+<img align="left" alt="C++" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116986978-25611e80-acd7-11eb-9197-be8a3a37f0ae.png" /><a/>
 
 <br/>
 <br/>
@@ -38,28 +38,28 @@
 
 #### 🧰 Technologies, Frameworks & Tools used in the past:
 <a href="https://maven.apache.org/">
-<img align="left" alt="Maven" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988274-d1573980-acd8-11eb-8367-60967a98a03b.png" /><a/>
+<img align="left" alt="Maven" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988274-d1573980-acd8-11eb-8367-60967a98a03b.png" /><a/>
 <a href="https://gradle.org/">
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988388-f77cd980-acd8-11eb-8d21-4e29cb8122c5.png" /><a/>
+<img align="left" alt="Gradle" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988388-f77cd980-acd8-11eb-8d21-4e29cb8122c5.png" /><a/>
 <a href="https://www.mysql.com/">
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988453-0e233080-acd9-11eb-9f56-9f9ba2c4568c.png" /><a/>
+<img align="left" alt="MySQL" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988453-0e233080-acd9-11eb-9f56-9f9ba2c4568c.png" /><a/>
 <a href="https://www.mongodb.com/2">
 <img align="left" alt="MongoDB" width="20px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988639-53476280-acd9-11eb-84ea-4aa7954b7431.png" /><a/>
 <a href="https://flask.palletsprojects.com/en/1.1.x/">
-<img align="left" alt="Flask" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116989185-15970980-acda-11eb-9316-412f130ff75e.png" /><a/>
+<img align="left" alt="Flask" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116989185-15970980-acda-11eb-9316-412f130ff75e.png" /><a/>
 <a href="https://spring.io/projects/spring-boot">
-<img align="left" alt="SpringBoot" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988419-03689b80-acd9-11eb-8667-ad0f823f0654.png" /><a/>
+<img align="left" alt="SpringBoot" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988419-03689b80-acd9-11eb-8667-ad0f823f0654.png" /><a/>
 <a href="https://angular.io/">
-<img align="left" alt="Angular" width="30px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116988306-de742880-acd8-11eb-930d-0f1e1a84043e.png" /><a/>
+<img align="center" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/45902117/116988306-de742880-acd8-11eb-930d-0f1e1a84043e.png" /><a/>
 
 <br/>
 
 #### 📞 Contact me:
 <a href=mailto:john.fakinos.nf@gmail.com>
-<img align="left" alt="john.fakinos.nf@gmail.com" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<img align="left" alt="john.fakinos.nf@gmail.com" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href=https://gr.linkedin.com/in/ioannis-fakinos>
-<img align="left" alt="Find me @ LinkedIn" width="30px" src="https://user-images.githubusercontent.com/45902117/116989844-f8af0600-acda-11eb-8e5a-dce086b3fa57.png" />
+<img align="left" alt="Find me @ LinkedIn" width="26px" src="https://user-images.githubusercontent.com/45902117/116989844-f8af0600-acda-11eb-8e5a-dce086b3fa57.png" />
 </a>
 <br/>
 
