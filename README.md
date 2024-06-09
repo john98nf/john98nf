@@ -1,23 +1,9 @@
 ### Hi there 😃! My name is Giannis - aka [john98nf](https://github.com/john98nf) 👋.
-## I'm a junior Software Engineer 💻, a devoted Linux user 🐧 & a comic-book fan 🦸
+## I'm a Software Engineer 💻, a Linux user 🐧 & a boardgames collector ♟️
 - 🎓 I graduated from the [National Technical University of Athens](https://www.ntua.gr/en/).
 - 🌆 I was born and raised in [New Filadelfeia](https://en.wikipedia.org/wiki/Nea_Filadelfeia).
 - ⚡ Fun Fact: I studied RF engineering for one semester, before switching to Computer Science.
 
-#### 💡 Currently Learning:
-<a href="https://www.ibm.com/products/zos">
-<img align="center" alt="z/OS" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/202741219-30f516d6-6216-429a-959e-0d5f183b5642.png" />
-<a/>
-<a href="https://www.ibm.com/products/pli-compiler-zos">
-<img align="center" alt="Enterprise PL/I" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/202743116-388e838b-b50c-4014-a250-b176a63b103e.png" />
-<a/>
-<a href="https://developer.ibm.com/languages/cobol/">
-<img align="center" alt="COBOL" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/202741322-83e9ad86-a639-4aef-86d0-8519a79f5372.png" />
-<a/>
-<a href="https://www.ibm.com/products/db2">
-<img align="center" alt="DB2" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/202740476-1d09131a-e71f-42f8-bc9b-32deee8c8b0b.png" />
-<a/>
-<br/>
 
 #### 🚀 Top Programming Languages:
 <a href="https://golang.org/">
@@ -34,13 +20,6 @@
 <a/>
 <a href="https://www.cplusplus.com/">
 <img align="center" alt="C++" width="26px" style="padding-right:10px" src="https://user-images.githubusercontent.com/45902117/116986978-25611e80-acd7-11eb-9197-be8a3a37f0ae.png" /><a/>
-
-<br/>
-<br/>
-
-![Giannis' GitHub stats](https://github-readme-stats.vercel.app/api?username=john98nf&count_private=true&theme=midnight-purple&show_icons=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john98nf&layout=compact&hide=css,html&theme=midnight-purple)
-<font size="2">*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*</font> -->
 
 #### 🧰 Technologies, Frameworks & Tools used in the past:
 <a href="https://kubernetes.io/">
@@ -70,7 +49,7 @@
 <a href="https://www.typescriptlang.org/">
 <img align="center" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/45902117/116998176-7debe800-ace6-11eb-9938-d843b69a8f81.png" /><a/>
 
+
 <br/>
 
 ---
-<font size="2">🙏🏻 *Big thanks to [Anurag Hazra](https://github.com/anuraghazra) and all the other maintainers of the [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) project.*</font>
